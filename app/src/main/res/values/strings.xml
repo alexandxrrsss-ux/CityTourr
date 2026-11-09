@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CityTour</string>
+    <string name="titulo_monumento">Monumento a los Fundadores</string>
+    <string name="subtitulo">Museo virtual · Guía turística interactiva</string>
+    <string name="desc_imagen_1">Fachada del monumento durante el día</string>
+    <string name="desc_imagen_2">Monumento al atardecer</string>
+    <string name="desc_imagen_3">Monumento iluminado por la noche</string>
+    <string name="desc_imagen_4">Detalle de las columnas de piedra</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_reproducir">Reproducir</string>
+    <string name="btn_reanudar">Reanudar</string>
+    <string name="btn_pausa">Pausa</string>
+    <string name="btn_detener">Detener</string>
+    <string name="etiqueta_volumen">Volumen</string>
+    <string name="estado_detenido">Audio detenido</string>
+    <string name="estado_cargando">Cargando audio…</string>
+    <string name="estado_reproduciendo">Reproduciendo explicación histórica</string>
+    <string name="estado_pausado">Audio en pausa</string>
+    <string name="error_audio">No se pudo reproducir el audio</string>
+</resources>
